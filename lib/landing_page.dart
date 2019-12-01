@@ -26,7 +26,7 @@ class LandingPageState extends State<LandingPage> {
                 height: MediaQuery.of(context).size.height,
                 width: MediaQuery.of(context).size.width,
                 child: Image.asset(
-                  "images/preview_study_jam.jpg",
+                  "web/assets/images/preview_study_jam.jpg",
                   fit: BoxFit.cover,
                 ),
               ),
@@ -49,7 +49,7 @@ class LandingPageState extends State<LandingPage> {
                                 ? 100
                                 : 150,
                             child: Image.asset(
-                              "images/logo_flutterph.png",
+                              "web/assets/images/logo_flutterph.png",
                               fit: BoxFit.cover,
                             ),
                           ),
@@ -113,7 +113,7 @@ class LandingPageState extends State<LandingPage> {
                                     );
                                   },
                                   child: Image.asset(
-                                    "images/social_facebook.png",
+                                    "web/assets/images/social_facebook.png",
                                     color: Colors.white,
                                   ),
                                 ),
@@ -128,7 +128,7 @@ class LandingPageState extends State<LandingPage> {
                                     );
                                   },
                                   child: Image.asset(
-                                    "images/social_facebook_group.png",
+                                    "web/assets/images/social_facebook_group.png",
                                     color: Colors.white,
                                   ),
                                 ),
@@ -143,7 +143,7 @@ class LandingPageState extends State<LandingPage> {
                                     );
                                   },
                                   child: Image.asset(
-                                    "images/social_meetup.png",
+                                    "web/assets/images/social_meetup.png",
                                     color: Colors.white,
                                   ),
                                 ),
@@ -158,7 +158,7 @@ class LandingPageState extends State<LandingPage> {
                                     );
                                   },
                                   child: Image.asset(
-                                    "images/social_twitter.png",
+                                    "web/assets/images/social_twitter.png",
                                     color: Colors.white,
                                   ),
                                 ),
@@ -173,7 +173,7 @@ class LandingPageState extends State<LandingPage> {
                                     );
                                   },
                                   child: Image.asset(
-                                    "images/social_instagram.png",
+                                    "web/assets/images/social_instagram.png",
                                     color: Colors.white,
                                   ),
                                 ),
@@ -198,7 +198,7 @@ class LandingPageState extends State<LandingPage> {
                                     ? 150
                                     : 200,
                                 child: Image.asset(
-                                  "images/logo_google_developers.png",
+                                  "web/assets/images/logo_google_developers.png",
                                   fit: BoxFit.cover,
                                 ),
                               ),

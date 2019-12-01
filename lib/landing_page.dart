@@ -6,14 +6,7 @@ import 'dart:js' as js;
 import 'package:flutter/material.dart';
 import 'package:flutterph_github_io/widgets/responsive_widget.dart';
 
-class LandingPage extends StatefulWidget {
-  @override
-  State<StatefulWidget> createState() {
-    return LandingPageState();
-  }
-}
-
-class LandingPageState extends State<LandingPage> {
+class LandingPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(

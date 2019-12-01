@@ -70,7 +70,7 @@ class LandingPageState extends State<LandingPage> {
                               : MediaQuery.of(context).size.width * 0.50,
                           padding: EdgeInsets.only(top: 8),
                           child: SelectableText(
-                            "A collaborative community for anyone interested in developing mobile apps using Flutter and Dart.",
+                            "A collaborative community for anyone interested in developing apps using Flutter and Dart.",
                             textAlign: TextAlign.center,
                             style: TextStyle(
                               color: Colors.white,

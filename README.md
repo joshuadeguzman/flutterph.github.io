@@ -1,16 +1,70 @@
-# flutterph_github_io
+# Flutter Philippines Official Website
+by [Joshua M. de Guzman](https://joshdeguzman.com)
 
-A new Flutter project.
+This is a demostrable Flutter for Web application using the latest changes in Flutter in the master channel. This aims to help those who are about to start building Flutter apps in the Web, be it a designer or a developer.
 
-## Getting Started
+### Project
 
-This project is a starting point for a Flutter application.
+#### 1. Setup
 
-A few resources to get you started if this is your first Flutter project:
+Switch to master
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```
+$ flutter channel master
+$ flutter upgrade
+$ flutter config --enable-web
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone repo
+
+```
+$ git clone https://github.com/joshuadeguzman/flutterph.github.io
+```
+
+Download dependencies
+
+```
+$ flutter packages get
+```
+
+#### 2. Run
+
+Debug
+
+```bash
+$ flutter run -d chrome --verbose
+```
+
+Release
+
+```bash
+$ flutter run -d chrome --verbose --release
+```
+
+#### 3. Tests
+
+```bash
+$ flutter run test/<TEST_FILE.dart>
+```
+
+### Support
+
+I would highly appreciate if we connect on Twitter or Github, and discuss Fluttery things over a cup of coffee ☕.
+* Twitter: [@joshuamdeguzman](https://twitter.com/joshuamdeguzman)
+* Github: [@joshuadeguzman](https://github.com/joshuadeguzman)
+
+## Cool stuff to try out!
+Awesome Flutter
+* https://github.com/Solido/awesome-flutter
+
+Flutter Showcase by 2dimensions
+* https://play.google.com/store/apps/details?id=com.two_dimensions.showcaseapp&hl=en_US
+* https://play.google.com/store/apps/details?id=com.two_dimensions.showcaseapp&hl=en_US
+
+Flutter Developer Quest
+* https://play.google.com/store/apps/details?id=dev.flutter.devRpg&hl=en
+* https://apps.apple.com/us/app/flutter-developer-quest/id1455994402
+
+### License
+
+flutterph.github.io is released under the BSD-3 Clause License. See [LICENSE](https://github.com/joshuadeguzman/fluterph.github.io/blob/master/LICENSE) for details.

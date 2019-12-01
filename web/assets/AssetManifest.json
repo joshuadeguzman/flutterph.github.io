@@ -1,3 +1,17 @@
 {
-  "assets": ["images/doodle_reading.png"]
+  "assets": [
+    "assets/images/preview_study_jam.jpg",
+    "assets/images/logo_flutterph.png",
+    "assets/images/logo_google_developers.png",
+    "assets/images/social_facebook.png",
+    "assets/images/social_facebook_group.png",
+    "assets/images/social_meetup.png",
+    "assets/images/social_twitter.png",
+    "assets/images/social_instagram.png",
+    "assets/images/social_github.png",
+    "assets/images/social_linkedin.png",
+    "assets/fonts/font-bold.ttf",
+    "assets/fonts/font-regular.ttf",
+    "assets/fonts/MaterialIcons-Regular.ttf"
+  ]
 }

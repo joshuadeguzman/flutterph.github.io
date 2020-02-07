@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/joshuadeguzman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://flutter.ph
+  * I am joshuadeguzman (https://keybase.io/joshuadeguzman) on keybase.
+  * I have a public key ASCXo-fsPdHZQdlJ4cvDpLgQ-h4-kWbdBhQackvNDx4u0Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205ff1007882d146fc810d7502aff0cb53bbedacf451d765aa0c52c1474f1894d40a",
+      "host": "keybase.io",
+      "kid": "012097a3e7ec3dd1d941d949e1cbc3a4b810fa1e3e9166dd06141a724bcd0f1e2ed00a",
+      "uid": "5c1c9c1ac61311cfdb78c67e094ad519",
+      "username": "joshuadeguzman"
+    },
+    "merkle_root": {
+      "ctime": 1581067381,
+      "hash": "460b7a6211f5616997078935775752f7a03c911e9c5310cbb5ea7cbc467717417cb55a5bbcd3995f584344006f7652d31cdb5f7f4e6b0f24c4b6ef4640667829",
+      "hash_meta": "44b35494134cc293f9a850e45c0d3bc57cde7145c461c4b02f334b4a050759b6",
+      "seqno": 14520778
+    },
+    "service": {
+      "entropy": "jrXdV0kdVSnaiKleDi5d30qx",
+      "hostname": "flutter.ph",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.0"
+  },
+  "ctime": 1581067390,
+  "expire_in": 504576000,
+  "prev": "a12edc0f35abd9d59007d18d08df7d9b8979f433ca172d602e8a77fe9c875692",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgl6Pn7D3R2UHZSeHLw6S4EPoePpFm3QYUGnJLzQ8eLtAKp3BheWxvYWTESpcCEMQgoS7cDzWr2dWQB9GNCN99m4l59DPKFy1gLop3/pyHVpLEIOvW4+0umD09fZ88TucDGnY5ohQ1wTZkl1OnNer3z7pjAgHCo3NpZ8RAq0wZk9rMjF3EQBZJLJDpuSQa0Io3KdxIZN+6oTEKuEAtY7bldblBsLCTBOlwjqzc1L5ryV60VuBaKsTPUXnlC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBF8zJfNUJsur7aRFmNmBjC0U9W25pdOiYCtNk6P7ljVo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joshuadeguzman
+
+==================================================================
